@@ -1,0 +1,23 @@
+grand_prix_id,grand_prix,date,total_laps,race_winner,url
+GP01,Bahrain,28 Mar,56,Hamilton,https://www.formula1.com/en/results/2021/races/1064/bahrain/race-result
+GP02,Emilia-Romagna,18 Apr,63,Verstappen,https://www.formula1.com/en/results/2021/races/1065/emilia-romagna/race-result
+GP03,Portugal,02 May,66,Hamilton,https://www.formula1.com/en/results/2021/races/1066/portugal/race-result
+GP04,Spain,09 May,66,Hamilton,https://www.formula1.com/en/results/2021/races/1086/spain/race-result
+GP05,Monaco,23 May,78,Verstappen,https://www.formula1.com/en/results/2021/races/1067/monaco/race-result
+GP06,Azerbaijan,06 Jun,51,Perez,https://www.formula1.com/en/results/2021/races/1068/azerbaijan/race-result
+GP07,France,20 Jun,53,Verstappen,https://www.formula1.com/en/results/2021/races/1070/france/race-result
+GP08,Styria,27 Jun,71,Verstappen,https://www.formula1.com/en/results/2021/races/1092/styria/race-result
+GP09,Austria,04 Jul,71,Verstappen,https://www.formula1.com/en/results/2021/races/1071/austria/race-result
+GP10,Great Britain,18 Jul,52,Hamilton,https://www.formula1.com/en/results/2021/races/1072/great-britain/race-result
+GP11,Hungary,01 Aug,70,Ocon,https://www.formula1.com/en/results/2021/races/1073/hungary/race-result
+GP12,Belgium,29 Aug,1,Verstappen,https://www.formula1.com/en/results/2021/races/1074/belgium/race-result
+GP13,Netherlands,05 Sep,72,Verstappen,https://www.formula1.com/en/results/2021/races/1075/netherlands/race-result
+GP14,Italy,12 Sep,53,Ricciardo,https://www.formula1.com/en/results/2021/races/1076/italy/race-result
+GP15,Russia,26 Sep,53,Hamilton,https://www.formula1.com/en/results/2021/races/1077/russia/race-result
+GP16,Turkey,10 Oct,58,Bottas,https://www.formula1.com/en/results/2021/races/1078/turkey/race-result
+GP17,United States,24 Oct,56,Verstappen,https://www.formula1.com/en/results/2021/races/1102/united-states/race-result
+GP18,Mexico,07 Nov,71,Verstappen,https://www.formula1.com/en/results/2021/races/1103/mexico/race-result
+GP19,Brazil,14 Nov,71,Hamilton,https://www.formula1.com/en/results/2021/races/1104/brazil/race-result
+GP20,Qatar,21 Nov,57,Hamilton,https://www.formula1.com/en/results/2021/races/1105/qatar/race-result
+GP21,Saudi Arabia,05 Dec,50,Hamilton,https://www.formula1.com/en/results/2021/races/1106/saudi-arabia/race-result
+GP22,Abu Dhabi,12 Dec,58,Verstappen,https://www.formula1.com/en/results/2021/races/1107/abu-dhabi/race-result
