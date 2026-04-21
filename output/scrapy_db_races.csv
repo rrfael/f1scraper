@@ -1,0 +1,420 @@
+race_id,position,driver_number,driver_name,team,laps_done,time,speed,points
+GP22,NC,7,Räikkönen,Alfa Romeo Racing Ferrari,25,1:29.698,211.951,0
+GP21,NC,47,Schumacher,Haas Ferrari,8,1:36.043,231.421,0
+GP20,NC,77,Bottas,Mercedes,48,1:27.246,221.992,0
+GP19,NC,18,Stroll,Aston Martin Mercedes,47,1:15.344,205.887,0
+GP18,NC,22,Tsunoda,AlphaTauri Honda,0,0,0,0
+GP17,NC,10,Gasly,AlphaTauri Honda,14,1:42.015,194.547,0
+GP16,20,9,Mazepin,Haas Ferrari,56,1:35.438,201.353,0
+GP15,NC,47,Schumacher,Haas Ferrari,32,1:40.276,209.948,0
+GP14,NC,22,Tsunoda,AlphaTauri Honda,0,0,0,0
+GP13,NC,9,Mazepin,Haas Ferrari,41,1:16.066,201.567,0
+GP11,NC,18,Stroll,Aston Martin Mercedes,0,0,0,0
+GP10,NC,33,Verstappen,Red Bull Racing Honda,0,0,0,0
+GP09,NC,31,Ocon,Alpine Renault,0,0,0,0
+GP08,NC,10,Gasly,AlphaTauri Honda,1,0,0,0
+GP07,20,9,Mazepin,Haas Ferrari,52,1:39.317,211.758,0
+GP06,NC,31,Ocon,Alpine Renault,3,1:50.850,194.955,0
+GP06,NC,18,Stroll,Aston Martin Mercedes,29,1:46.207,203.478,0
+GP06,18,33,Verstappen,Red Bull Racing Honda,45,1:44.481,206.839,0
+GP06,17,63,Russell,Williams Mercedes,48,1:45.959,203.954,0
+GP06,16,6,Latifi,Williams Mercedes,51,1:46.608,202.712,0
+GP06,15,44,Hamilton,Mercedes,51,1:44.769,206.27,0
+GP06,14,9,Mazepin,Haas Ferrari,51,1:47.747,200.569,0
+GP06,13,47,Schumacher,Haas Ferrari,51,1:47.624,200.799,0
+GP06,12,77,Bottas,Mercedes,51,1:45.665,204.521,0
+GP06,11,99,Giovinazzi,Alfa Romeo Racing Ferrari,51,1:45.575,204.696,0
+GP06,10,7,Räikkönen,Alfa Romeo Racing Ferrari,51,1:45.601,204.645,1
+GP06,9,3,Ricciardo,McLaren Mercedes,51,1:45.713,204.428,2
+GP06,8,55,Sainz,Ferrari,51,1:45.700,204.454,4
+GP06,7,22,Tsunoda,AlphaTauri Honda,51,1:44.939,205.936,6
+GP06,6,14,Alonso,Alpine Renault,51,1:45.624,204.601,8
+GP06,5,4,Norris,McLaren Mercedes,51,1:45.326,205.18,10
+GP06,4,16,Leclerc,Ferrari,51,1:45.382,205.071,12
+GP06,3,10,Gasly,AlphaTauri Honda,51,1:45.220,205.386,15
+GP06,2,5,Vettel,Aston Martin Mercedes,51,1:44.890,206.032,18
+GP06,1,11,Perez,Red Bull Racing Honda,51,1:44.687,206.432,25
+GP07,19,47,Schumacher,Haas Ferrari,52,1:38.847,212.765,0
+GP07,18,6,Latifi,Williams Mercedes,52,1:38.313,213.92,0
+GP07,17,7,Räikkönen,Alfa Romeo Racing Ferrari,52,1:37.992,214.621,0
+GP07,16,16,Leclerc,Ferrari,52,1:37.681,215.304,0
+GP07,15,99,Giovinazzi,Alfa Romeo Racing Ferrari,52,1:38.702,213.077,0
+GP07,14,31,Ocon,Alpine Renault,52,1:38.645,213.2,0
+GP07,13,22,Tsunoda,AlphaTauri Honda,52,1:38.980,212.479,0
+GP07,12,63,Russell,Williams Mercedes,52,1:38.314,213.918,0
+GP07,11,55,Sainz,Ferrari,53,1:38.931,212.584,0
+GP07,10,18,Stroll,Aston Martin Mercedes,53,1:37.828,214.981,1
+GP07,9,5,Vettel,Aston Martin Mercedes,53,1:37.138,216.508,2
+GP07,8,14,Alonso,Alpine Renault,53,1:37.646,215.382,4
+GP07,7,10,Gasly,AlphaTauri Honda,53,1:38.103,214.378,6
+GP07,6,3,Ricciardo,McLaren Mercedes,53,1:38.324,213.896,8
+GP07,5,4,Norris,McLaren Mercedes,53,1:37.425,215.87,10
+GP07,4,77,Bottas,Mercedes,53,1:36.960,216.905,12
+GP07,3,11,Perez,Red Bull Racing Honda,53,1:36.693,217.504,15
+GP07,2,44,Hamilton,Mercedes,53,1:37.410,215.903,18
+GP07,1,33,Verstappen,Red Bull Racing Honda,53,1:36.404,218.156,26
+GP08,NC,63,Russell,Williams Mercedes,36,1:10.499,220.496,0
+GP08,18,9,Mazepin,Haas Ferrari,68,1:10.951,219.092,0
+GP08,17,6,Latifi,Williams Mercedes,68,1:10.104,221.739,0
+GP08,16,47,Schumacher,Haas Ferrari,69,1:10.005,222.052,0
+GP08,15,99,Giovinazzi,Alfa Romeo Racing Ferrari,70,1:09.723,222.95,0
+GP08,14,31,Ocon,Alpine Renault,70,1:09.576,223.421,0
+GP08,13,3,Ricciardo,McLaren Mercedes,70,1:09.305,224.295,0
+GP08,12,5,Vettel,Aston Martin Mercedes,70,1:09.821,222.637,0
+GP08,11,7,Räikkönen,Alfa Romeo Racing Ferrari,70,1:09.128,224.869,0
+GP08,10,22,Tsunoda,AlphaTauri Honda,70,1:09.650,223.184,1
+GP08,9,14,Alonso,Alpine Renault,70,1:09.749,222.867,2
+GP08,8,18,Stroll,Aston Martin Mercedes,70,1:09.787,222.746,4
+GP08,7,16,Leclerc,Ferrari,70,1:08.738,226.145,6
+GP08,6,55,Sainz,Ferrari,70,1:08.609,226.57,8
+GP08,5,4,Norris,McLaren Mercedes,70,1:08.903,225.604,10
+GP08,4,11,Perez,Red Bull Racing Honda,71,1:07.894,228.956,12
+GP08,3,77,Bottas,Mercedes,71,1:08.619,226.537,15
+GP08,2,44,Hamilton,Mercedes,71,1:07.058,231.811,19
+GP08,1,33,Verstappen,Red Bull Racing Honda,71,1:08.017,228.542,25
+GP09,19,9,Mazepin,Haas Ferrari,69,1:09.757,222.842,0
+GP09,18,47,Schumacher,Haas Ferrari,69,1:09.394,224.007,0
+GP09,17,5,Vettel,Aston Martin Mercedes,69,1:08.420,227.196,0
+GP09,16,6,Latifi,Williams Mercedes,70,1:08.874,225.699,0
+GP09,15,7,Räikkönen,Alfa Romeo Racing Ferrari,70,1:08.520,226.865,0
+GP09,14,99,Giovinazzi,Alfa Romeo Racing Ferrari,70,1:09.042,225.149,0
+GP09,13,18,Stroll,Aston Martin Mercedes,70,1:08.659,226.405,0
+GP09,12,22,Tsunoda,AlphaTauri Honda,70,1:08.455,227.08,0
+GP09,11,63,Russell,Williams Mercedes,70,1:08.900,225.613,0
+GP09,10,14,Alonso,Alpine Renault,70,1:08.405,227.246,1
+GP09,9,10,Gasly,AlphaTauri Honda,71,1:08.146,228.11,2
+GP09,8,16,Leclerc,Ferrari,71,1:08.698,226.277,4
+GP09,7,3,Ricciardo,McLaren Mercedes,71,1:08.820,225.876,6
+GP09,6,11,Perez,Red Bull Racing Honda,71,1:08.192,227.956,8
+GP09,5,55,Sainz,Ferrari,71,1:07.762,229.402,10
+GP09,4,44,Hamilton,Mercedes,71,1:08.126,228.177,12
+GP09,3,4,Norris,McLaren Mercedes,71,1:08.471,227.027,15
+GP09,2,77,Bottas,Mercedes,71,1:08.374,227.349,18
+GP09,1,33,Verstappen,Red Bull Racing Honda,71,1:06.200,234.815,26
+GP10,NC,5,Vettel,Aston Martin Mercedes,40,1:33.059,227.894,0
+GP10,18,47,Schumacher,Haas Ferrari,51,1:32.862,228.377,0
+GP10,17,9,Mazepin,Haas Ferrari,51,1:32.909,228.262,0
+GP10,16,11,Perez,Red Bull Racing Honda,51,1:28.617,239.317,0
+GP10,15,7,Räikkönen,Alfa Romeo Racing Ferrari,51,1:31.895,230.78,0
+GP10,14,6,Latifi,Williams Mercedes,51,1:32.477,229.328,0
+GP10,13,99,Giovinazzi,Alfa Romeo Racing Ferrari,51,1:32.346,229.653,0
+GP10,12,63,Russell,Williams Mercedes,51,1:32.049,230.394,0
+GP10,11,10,Gasly,AlphaTauri Honda,52,1:30.266,234.945,0
+GP10,10,22,Tsunoda,AlphaTauri Honda,52,1:30.826,233.497,1
+GP10,9,31,Ocon,Alpine Renault,52,1:32.210,229.992,2
+GP10,8,18,Stroll,Aston Martin Mercedes,52,1:31.992,230.537,4
+GP10,7,14,Alonso,Alpine Renault,52,1:31.698,231.276,6
+GP10,6,55,Sainz,Ferrari,52,1:31.223,232.48,8
+GP10,5,3,Ricciardo,McLaren Mercedes,52,1:31.284,232.325,10
+GP10,4,4,Norris,McLaren Mercedes,52,1:31.420,231.979,12
+GP10,3,77,Bottas,Mercedes,52,1:30.524,234.275,15
+GP10,2,16,Leclerc,Ferrari,52,1:30.569,234.159,18
+GP10,1,44,Hamilton,Mercedes,52,1:29.699,236.43,25
+GP11,NC,16,Leclerc,Ferrari,0,0,0,0
+GP11,NC,11,Perez,Red Bull Racing Honda,0,0,0,0
+GP11,NC,77,Bottas,Mercedes,0,0,0,0
+GP11,NC,4,Norris,McLaren Mercedes,2,0,0,0
+GP11,NC,9,Mazepin,Haas Ferrari,3,0,0,0
+GP11,13,99,Giovinazzi,Alfa Romeo Racing Ferrari,69,1:22.736,190.625,0
+GP11,12,47,Schumacher,Haas Ferrari,69,1:22.711,190.683,0
+GP11,11,3,Ricciardo,McLaren Mercedes,69,1:22.802,190.473,0
+GP11,10,7,Räikkönen,Alfa Romeo Racing Ferrari,69,1:21.518,193.473,1
+GP11,9,33,Verstappen,Red Bull Racing Honda,70,1:20.945,194.843,2
+GP11,8,63,Russell,Williams Mercedes,70,1:22.112,192.074,4
+GP11,7,6,Latifi,Williams Mercedes,70,1:22.831,190.406,6
+GP11,6,22,Tsunoda,AlphaTauri Honda,70,1:22.450,191.286,8
+GP11,5,10,Gasly,AlphaTauri Honda,70,1:18.394,201.183,11
+GP11,4,14,Alonso,Alpine Renault,70,1:20.359,196.264,12
+GP11,3,55,Sainz,Ferrari,70,1:21.423,193.699,15
+GP11,2,44,Hamilton,Mercedes,70,1:18.715,200.363,18
+GP11,DQ,5,Vettel,Aston Martin Mercedes,70,1:21.459,193.613,0
+GP11,1,31,Ocon,Alpine Renault,70,1:21.421,193.704,25
+GP13,NC,22,Tsunoda,AlphaTauri Honda,48,1:15.783,202.319,0
+GP13,18,47,Schumacher,Haas Ferrari,69,1:15.927,201.936,0
+GP13,17,63,Russell,Williams Mercedes,69,1:15.628,202.734,0
+GP13,16,6,Latifi,Williams Mercedes,70,1:15.790,202.301,0
+GP13,15,88,Kubica,Alfa Romeo Racing Ferrari,70,1:15.442,203.234,0
+GP13,14,99,Giovinazzi,Alfa Romeo Racing Ferrari,70,1:15.125,204.091,0
+GP13,13,5,Vettel,Aston Martin Mercedes,70,1:13.958,207.312,0
+GP13,12,18,Stroll,Aston Martin Mercedes,70,1:15.611,202.78,0
+GP13,11,3,Ricciardo,McLaren Mercedes,71,1:14.920,204.65,0
+GP13,10,4,Norris,McLaren Mercedes,71,1:14.236,206.535,1
+GP13,9,31,Ocon,Alpine Renault,71,1:14.675,205.321,2
+GP13,8,11,Perez,Red Bull Racing Honda,71,1:13.461,208.714,4
+GP13,7,55,Sainz,Ferrari,71,1:15.260,203.725,6
+GP13,6,14,Alonso,Alpine Renault,71,1:14.323,206.294,8
+GP13,5,16,Leclerc,Ferrari,71,1:14.780,205.033,10
+GP13,4,10,Gasly,AlphaTauri Honda,71,1:14.818,204.929,12
+GP13,3,77,Bottas,Mercedes,72,1:12.549,211.338,15
+GP13,2,44,Hamilton,Mercedes,72,1:11.097,215.654,19
+GP13,1,33,Verstappen,Red Bull Racing Honda,72,1:13.275,209.244,25
+GP14,NC,10,Gasly,AlphaTauri Honda,3,1:29.005,234.31,0
+GP14,NC,33,Verstappen,Red Bull Racing Honda,25,1:25.173,244.852,0
+GP14,NC,44,Hamilton,Mercedes,25,1:25.870,242.864,0
+GP14,NC,9,Mazepin,Haas Ferrari,41,1:27.202,239.155,0
+GP14,15,47,Schumacher,Haas Ferrari,53,1:26.707,240.52,0
+GP14,14,88,Kubica,Alfa Romeo Racing Ferrari,53,1:25.849,242.924,0
+GP14,13,99,Giovinazzi,Alfa Romeo Racing Ferrari,53,1:25.718,243.295,0
+GP14,12,5,Vettel,Aston Martin Mercedes,53,1:25.938,242.672,0
+GP14,11,6,Latifi,Williams Mercedes,53,1:25.953,242.63,0
+GP14,10,31,Ocon,Alpine Renault,53,1:25.566,243.727,1
+GP14,9,63,Russell,Williams Mercedes,53,1:25.835,242.963,2
+GP14,8,14,Alonso,Alpine Renault,53,1:25.472,243.995,4
+GP14,7,18,Stroll,Aston Martin Mercedes,53,1:25.853,242.912,6
+GP14,6,55,Sainz,Ferrari,53,1:25.559,243.747,8
+GP14,5,11,Perez,Red Bull Racing Honda,53,1:25.156,244.901,10
+GP14,4,16,Leclerc,Ferrari,53,1:25.319,244.433,12
+GP14,3,77,Bottas,Mercedes,53,1:24.827,245.85,15
+GP14,2,4,Norris,McLaren Mercedes,53,1:24.971,245.434,18
+GP14,1,3,Ricciardo,McLaren Mercedes,53,1:24.812,245.894,26
+GP15,19,6,Latifi,Williams Mercedes,47,1:40.000,210.528,0
+GP15,18,9,Mazepin,Haas Ferrari,51,1:41.713,206.982,0
+GP15,17,22,Tsunoda,AlphaTauri Honda,52,1:39.960,210.612,0
+GP15,16,99,Giovinazzi,Alfa Romeo Racing Ferrari,52,1:39.058,212.53,0
+GP15,15,16,Leclerc,Ferrari,52,1:38.994,212.667,0
+GP15,14,31,Ocon,Alpine Renault,52,1:40.598,209.276,0
+GP15,13,10,Gasly,AlphaTauri Honda,52,1:38.279,214.214,0
+GP15,12,5,Vettel,Aston Martin Mercedes,52,1:39.251,212.116,0
+GP15,11,18,Stroll,Aston Martin Mercedes,53,1:40.464,209.555,0
+GP15,10,63,Russell,Williams Mercedes,53,1:40.596,209.28,1
+GP15,9,11,Perez,Red Bull Racing Honda,53,1:39.215,212.193,2
+GP15,8,7,Räikkönen,Alfa Romeo Racing Ferrari,53,1:40.289,209.921,4
+GP15,7,4,Norris,McLaren Mercedes,53,1:37.423,216.096,7
+GP15,6,14,Alonso,Alpine Renault,53,1:38.686,213.331,8
+GP15,5,77,Bottas,Mercedes,53,1:38.216,214.352,10
+GP15,4,3,Ricciardo,McLaren Mercedes,53,1:39.124,212.388,12
+GP15,3,55,Sainz,Ferrari,53,1:39.294,212.024,15
+GP15,2,33,Verstappen,Red Bull Racing Honda,53,1:38.396,213.959,18
+GP15,1,44,Hamilton,Mercedes,53,1:37.575,215.76,25
+GP16,19,47,Schumacher,Haas Ferrari,56,1:34.209,203.98,0
+GP16,18,5,Vettel,Aston Martin Mercedes,57,1:32.730,207.233,0
+GP16,17,6,Latifi,Williams Mercedes,57,1:33.672,205.149,0
+GP16,16,14,Alonso,Alpine Renault,57,1:33.252,206.073,0
+GP16,15,63,Russell,Williams Mercedes,57,1:33.399,205.749,0
+GP16,14,22,Tsunoda,AlphaTauri Honda,57,1:32.844,206.979,0
+GP16,13,3,Ricciardo,McLaren Mercedes,57,1:33.255,206.067,0
+GP16,12,7,Räikkönen,Alfa Romeo Racing Ferrari,57,1:32.586,207.556,0
+GP16,11,99,Giovinazzi,Alfa Romeo Racing Ferrari,57,1:32.904,206.845,0
+GP16,10,31,Ocon,Alpine Renault,57,1:34.584,203.171,1
+GP16,9,18,Stroll,Aston Martin Mercedes,58,1:32.608,207.506,2
+GP16,8,55,Sainz,Ferrari,58,1:31.921,209.057,4
+GP16,7,4,Norris,McLaren Mercedes,58,1:32.446,207.87,6
+GP16,6,10,Gasly,AlphaTauri Honda,58,1:32.814,207.046,8
+GP16,5,44,Hamilton,Mercedes,58,1:32.763,207.16,10
+GP16,4,16,Leclerc,Ferrari,58,1:32.737,207.218,12
+GP16,3,11,Perez,Red Bull Racing Honda,58,1:32.459,207.841,15
+GP16,2,33,Verstappen,Red Bull Racing Honda,58,1:32.759,207.169,18
+GP16,1,77,Bottas,Mercedes,58,1:30.432,212.5,26
+GP17,NC,31,Ocon,Alpine Renault,40,1:42.194,194.207,0
+GP17,NC,14,Alonso,Alpine Renault,49,1:40.067,198.335,0
+GP17,17,9,Mazepin,Haas Ferrari,54,1:42.886,192.9,0
+GP17,16,47,Schumacher,Haas Ferrari,54,1:41.395,195.737,0
+GP17,15,6,Latifi,Williams Mercedes,55,1:41.818,194.924,0
+GP17,14,63,Russell,Williams Mercedes,55,1:41.120,196.269,0
+GP17,13,7,Räikkönen,Alfa Romeo Racing Ferrari,55,1:41.340,195.843,0
+GP17,12,18,Stroll,Aston Martin Mercedes,55,1:41.189,196.135,0
+GP17,11,99,Giovinazzi,Alfa Romeo Racing Ferrari,55,1:41.145,196.221,0
+GP17,10,5,Vettel,Aston Martin Mercedes,55,1:40.481,197.517,1
+GP17,9,22,Tsunoda,AlphaTauri Honda,55,1:41.151,196.209,2
+GP17,8,4,Norris,McLaren Mercedes,56,1:40.228,198.016,4
+GP17,7,55,Sainz,Ferrari,56,1:40.377,197.722,6
+GP17,6,77,Bottas,Mercedes,56,1:40.147,198.176,8
+GP17,5,3,Ricciardo,McLaren Mercedes,56,1:40.345,197.785,10
+GP17,4,16,Leclerc,Ferrari,56,1:39.303,199.861,12
+GP17,3,11,Perez,Red Bull Racing Honda,56,1:39.566,199.333,15
+GP17,2,44,Hamilton,Mercedes,56,1:38.485,201.521,19
+GP17,1,33,Verstappen,Red Bull Racing Honda,56,1:39.096,200.278,25
+GP18,NC,47,Schumacher,Haas Ferrari,0,0,0,0
+GP18,18,9,Mazepin,Haas Ferrari,68,1:21.402,190.344,0
+GP18,17,6,Latifi,Williams Mercedes,69,1:21.546,190.008,0
+GP18,16,63,Russell,Williams Mercedes,69,1:22.016,188.919,0
+GP18,15,77,Bottas,Mercedes,69,1:17.774,199.223,0
+GP18,14,18,Stroll,Aston Martin Mercedes,69,1:20.930,191.454,0
+GP18,13,31,Ocon,Alpine Renault,70,1:21.348,190.47,0
+GP18,12,3,Ricciardo,McLaren Mercedes,70,1:21.069,191.126,0
+GP18,11,99,Giovinazzi,Alfa Romeo Racing Ferrari,70,1:21.523,190.061,0
+GP18,10,4,Norris,McLaren Mercedes,70,1:20.617,192.197,1
+GP18,9,14,Alonso,Alpine Renault,70,1:20.711,191.973,2
+GP18,8,7,Räikkönen,Alfa Romeo Racing Ferrari,70,1:20.713,191.969,4
+GP18,7,5,Vettel,Aston Martin Mercedes,70,1:20.460,192.572,6
+GP18,6,55,Sainz,Ferrari,70,1:20.081,193.484,8
+GP18,5,16,Leclerc,Ferrari,71,1:20.665,192.083,10
+GP18,4,10,Gasly,AlphaTauri Honda,71,1:20.510,192.453,12
+GP18,3,11,Perez,Red Bull Racing Honda,71,1:19.468,194.976,15
+GP18,2,44,Hamilton,Mercedes,71,1:19.820,194.116,18
+GP18,1,33,Verstappen,Red Bull Racing Honda,71,1:18.999,196.134,25
+GP19,NC,3,Ricciardo,McLaren Mercedes,49,1:14.443,208.379,0
+GP19,18,47,Schumacher,Haas Ferrari,69,1:13.793,210.215,0
+GP19,17,9,Mazepin,Haas Ferrari,69,1:14.954,206.958,0
+GP19,16,6,Latifi,Williams Mercedes,70,1:14.616,207.896,0
+GP19,15,22,Tsunoda,AlphaTauri Honda,70,1:14.204,209.05,0
+GP19,14,99,Giovinazzi,Alfa Romeo Racing Ferrari,70,1:14.227,208.985,0
+GP19,13,63,Russell,Williams Mercedes,70,1:14.355,208.626,0
+GP19,12,7,Räikkönen,Alfa Romeo Racing Ferrari,70,1:12.621,213.607,0
+GP19,11,5,Vettel,Aston Martin Mercedes,70,1:13.634,210.668,0
+GP19,10,4,Norris,McLaren Mercedes,70,1:13.761,210.306,1
+GP19,9,14,Alonso,Alpine Renault,70,1:13.922,209.848,2
+GP19,8,31,Ocon,Alpine Renault,70,1:14.430,208.415,4
+GP19,7,10,Gasly,AlphaTauri Honda,70,1:13.227,211.839,6
+GP19,6,55,Sainz,Ferrari,71,1:12.710,213.346,8
+GP19,5,16,Leclerc,Ferrari,71,1:12.822,213.018,10
+GP19,4,11,Perez,Red Bull Racing Honda,71,1:11.010,218.453,13
+GP19,3,77,Bottas,Mercedes,71,1:12.526,213.887,15
+GP19,2,33,Verstappen,Red Bull Racing Honda,71,1:12.486,214.005,18
+GP19,1,44,Hamilton,Mercedes,71,1:11.982,215.503,25
+GP20,NC,6,Latifi,Williams Mercedes,50,1:28.732,218.275,0
+GP20,18,9,Mazepin,Haas Ferrari,55,1:27.340,221.754,0
+GP20,17,63,Russell,Williams Mercedes,55,1:25.768,225.818,0
+GP20,16,47,Schumacher,Haas Ferrari,56,1:28.412,219.065,0
+GP20,15,99,Giovinazzi,Alfa Romeo Racing Ferrari,56,1:27.823,220.534,0
+GP20,14,7,Räikkönen,Alfa Romeo Racing Ferrari,56,1:26.358,224.275,0
+GP20,13,22,Tsunoda,AlphaTauri Honda,56,1:27.043,222.51,0
+GP20,12,3,Ricciardo,McLaren Mercedes,56,1:27.198,222.115,0
+GP20,11,10,Gasly,AlphaTauri Honda,56,1:27.019,222.572,0
+GP20,10,5,Vettel,Aston Martin Mercedes,56,1:26.434,224.078,1
+GP20,9,4,Norris,McLaren Mercedes,56,1:25.746,225.876,2
+GP20,8,16,Leclerc,Ferrari,57,1:26.555,223.765,4
+GP20,7,55,Sainz,Ferrari,57,1:26.570,223.726,6
+GP20,6,18,Stroll,Aston Martin Mercedes,57,1:27.356,221.713,8
+GP20,5,31,Ocon,Alpine Renault,57,1:27.061,222.464,10
+GP20,4,11,Perez,Red Bull Racing Honda,57,1:25.613,226.227,12
+GP20,3,14,Alonso,Alpine Renault,57,1:26.682,223.437,15
+GP20,2,33,Verstappen,Red Bull Racing Honda,57,1:23.196,232.799,19
+GP20,1,44,Hamilton,Mercedes,57,1:25.084,227.633,25
+GP21,NC,63,Russell,Williams Mercedes,14,1:36.130,231.211,0
+GP21,NC,9,Mazepin,Haas Ferrari,14,1:37.043,229.036,0
+GP21,NC,11,Perez,Red Bull Racing Honda,14,1:34.138,236.104,0
+GP21,NC,5,Vettel,Aston Martin Mercedes,44,1:34.030,236.375,0
+GP21,15,7,Räikkönen,Alfa Romeo Racing Ferrari,49,1:32.778,239.565,0
+GP21,14,22,Tsunoda,AlphaTauri Honda,49,1:32.506,240.269,0
+GP21,13,14,Alonso,Alpine Renault,49,1:31.633,242.558,0
+GP21,12,6,Latifi,Williams Mercedes,50,1:32.751,239.635,0
+GP21,11,18,Stroll,Aston Martin Mercedes,50,1:32.804,239.498,0
+GP21,10,4,Norris,McLaren Mercedes,50,1:31.914,241.817,1
+GP21,9,99,Giovinazzi,Alfa Romeo Racing Ferrari,50,1:32.865,239.34,2
+GP21,8,55,Sainz,Ferrari,50,1:31.851,241.983,4
+GP21,7,16,Leclerc,Ferrari,50,1:31.601,242.643,6
+GP21,6,10,Gasly,AlphaTauri Honda,50,1:32.297,240.813,8
+GP21,5,3,Ricciardo,McLaren Mercedes,50,1:32.716,239.725,10
+GP21,4,31,Ocon,Alpine Renault,50,1:31.797,242.125,12
+GP21,3,77,Bottas,Mercedes,50,1:31.408,243.155,15
+GP21,2,33,Verstappen,Red Bull Racing Honda,50,1:31.488,242.943,18
+GP21,1,44,Hamilton,Mercedes,50,1:30.734,244.962,26
+GP22,NC,63,Russell,Williams Mercedes,26,1:30.647,209.732,0
+GP22,NC,99,Giovinazzi,Alfa Romeo Racing Ferrari,33,1:29.442,212.557,0
+GP22,NC,6,Latifi,Williams Mercedes,50,1:29.293,212.912,0
+GP22,15,11,Perez,Red Bull Racing Honda,55,1:26.419,219.993,0
+GP22,14,47,Schumacher,Haas Ferrari,57,1:29.457,212.522,0
+GP22,13,18,Stroll,Aston Martin Mercedes,57,1:28.567,214.657,0
+GP22,12,3,Ricciardo,McLaren Mercedes,57,1:28.723,214.28,0
+GP22,11,5,Vettel,Aston Martin Mercedes,58,1:28.303,215.299,0
+GP22,10,16,Leclerc,Ferrari,58,1:28.433,214.983,1
+GP22,9,31,Ocon,Alpine Renault,58,1:28.249,215.431,2
+GP22,8,14,Alonso,Alpine Renault,58,1:27.607,217.01,4
+GP22,7,4,Norris,McLaren Mercedes,58,1:26.762,219.123,6
+GP22,6,77,Bottas,Mercedes,58,1:26.862,218.871,8
+GP22,5,10,Gasly,AlphaTauri Honda,58,1:27.342,217.668,10
+GP22,4,22,Tsunoda,AlphaTauri Honda,58,1:27.496,217.285,12
+GP22,3,55,Sainz,Ferrari,58,1:27.618,216.982,15
+GP22,2,44,Hamilton,Mercedes,58,1:26.615,219.495,18
+GP22,1,33,Verstappen,Red Bull Racing Honda,58,1:26.103,220.8,26
+GP05,NC,16,Leclerc,Ferrari,0,0,0,0
+GP05,NC,77,Bottas,Mercedes,29,1:15.706,158.682,0
+GP05,18,47,Schumacher,Haas Ferrari,75,1:16.425,157.189,0
+GP05,17,9,Mazepin,Haas Ferrari,75,1:16.866,156.287,0
+GP05,16,22,Tsunoda,AlphaTauri Honda,77,1:14.037,162.259,0
+GP05,15,6,Latifi,Williams Mercedes,77,1:15.573,158.961,0
+GP05,14,63,Russell,Williams Mercedes,77,1:15.539,159.033,0
+GP05,13,14,Alonso,Alpine Renault,77,1:15.026,160.12,0
+GP05,12,3,Ricciardo,McLaren Mercedes,77,1:14.578,161.082,0
+GP05,11,7,Räikkönen,Alfa Romeo Racing Ferrari,77,1:14.971,160.237,0
+GP05,10,99,Giovinazzi,Alfa Romeo Racing Ferrari,77,1:15.331,159.472,1
+GP05,9,31,Ocon,Alpine Renault,77,1:15.316,159.503,2
+GP05,8,18,Stroll,Aston Martin Mercedes,77,1:14.674,160.875,4
+GP04,NC,22,Tsunoda,AlphaTauri Honda,6,1:24.825,198.408,0
+GP03,NC,7,Räikkönen,Alfa Romeo Racing Ferrari,1,0,0,0
+GP02,NC,6,Latifi,Williams Mercedes,0,0,0,0
+GP01,NC,9,Mazepin,Haas Ferrari,0,0,0,0
+GP01,NC,14,Alonso,Alpine Renault,32,1:36.063,202.816,0
+GP01,18,6,Latifi,Williams Mercedes,51,1:36.602,201.685,0
+GP01,17,10,Gasly,AlphaTauri Honda,52,1:34.090,207.069,0
+GP01,16,47,Schumacher,Haas Ferrari,55,1:36.134,202.667,0
+GP01,15,5,Vettel,Aston Martin Mercedes,55,1:35.566,203.871,0
+GP01,14,63,Russell,Williams Mercedes,55,1:35.036,205.008,0
+GP01,13,31,Ocon,Alpine Renault,55,1:35.250,204.548,0
+GP01,12,99,Giovinazzi,Alfa Romeo Racing Ferrari,55,1:35.122,204.823,0
+GP01,11,7,Räikkönen,Alfa Romeo Racing Ferrari,56,1:35.192,204.672,0
+GP01,10,18,Stroll,Aston Martin Mercedes,56,1:34.865,205.378,1
+GP01,9,22,Tsunoda,AlphaTauri Honda,56,1:34.761,205.603,2
+GP01,8,55,Sainz,Ferrari,56,1:34.509,206.151,4
+GP01,7,3,Ricciardo,McLaren Mercedes,56,1:34.932,205.233,6
+GP01,6,16,Leclerc,Ferrari,56,1:34.988,205.112,8
+GP01,5,11,Perez,Red Bull Racing Honda,56,1:33.970,207.334,10
+GP01,4,4,Norris,McLaren Mercedes,56,1:34.396,206.398,12
+GP01,3,77,Bottas,Mercedes,56,1:32.090,211.566,16
+GP01,2,33,Verstappen,Red Bull Racing Honda,56,1:33.228,208.984,18
+GP01,1,44,Hamilton,Mercedes,56,1:34.015,207.235,25
+GP02,NC,63,Russell,Williams Mercedes,30,1:26.543,204.203,0
+GP02,NC,77,Bottas,Mercedes,30,1:28.485,199.721,0
+GP02,17,9,Mazepin,Haas Ferrari,61,1:20.402,219.8,0
+GP02,16,47,Schumacher,Haas Ferrari,61,1:19.193,223.156,0
+GP02,15,5,Vettel,Aston Martin Mercedes,61,1:19.074,223.491,0
+GP02,14,99,Giovinazzi,Alfa Romeo Racing Ferrari,62,1:19.470,222.378,0
+GP02,13,7,Räikkönen,Alfa Romeo Racing Ferrari,63,1:19.422,222.512,0
+GP02,12,22,Tsunoda,AlphaTauri Honda,63,1:18.353,225.548,0
+GP02,11,11,Perez,Red Bull Racing Honda,63,1:18.334,225.603,0
+GP02,10,14,Alonso,Alpine Renault,63,1:19.396,222.585,1
+GP02,9,31,Ocon,Alpine Renault,63,1:19.417,222.526,2
+GP02,8,18,Stroll,Aston Martin Mercedes,63,1:18.994,223.718,4
+GP02,7,10,Gasly,AlphaTauri Honda,63,1:18.782,224.32,6
+GP02,6,3,Ricciardo,McLaren Mercedes,63,1:19.341,222.739,8
+GP02,5,55,Sainz,Ferrari,63,1:18.490,225.154,10
+GP02,4,16,Leclerc,Ferrari,63,1:18.379,225.473,12
+GP02,3,4,Norris,McLaren Mercedes,63,1:18.259,225.819,15
+GP02,2,44,Hamilton,Mercedes,63,1:16.702,230.403,19
+GP02,1,33,Verstappen,Red Bull Racing Honda,63,1:17.524,227.96,25
+GP03,19,9,Mazepin,Haas Ferrari,64,1:23.641,200.27,0
+GP03,18,6,Latifi,Williams Mercedes,64,1:23.155,201.44,0
+GP03,17,47,Schumacher,Haas Ferrari,64,1:22.755,202.414,0
+GP03,16,63,Russell,Williams Mercedes,65,1:22.654,202.661,0
+GP03,15,22,Tsunoda,AlphaTauri Honda,65,1:22.058,204.133,0
+GP03,14,18,Stroll,Aston Martin Mercedes,65,1:21.970,204.352,0
+GP03,13,5,Vettel,Aston Martin Mercedes,65,1:22.416,203.246,0
+GP03,12,99,Giovinazzi,Alfa Romeo Racing Ferrari,65,1:22.167,203.862,0
+GP03,11,55,Sainz,Ferrari,66,1:22.325,203.471,0
+GP03,10,10,Gasly,AlphaTauri Honda,66,1:22.014,204.243,1
+GP03,9,3,Ricciardo,McLaren Mercedes,66,1:21.987,204.31,2
+GP03,8,14,Alonso,Alpine Renault,66,1:21.032,206.718,4
+GP03,7,31,Ocon,Alpine Renault,66,1:21.886,204.562,6
+GP03,6,16,Leclerc,Ferrari,66,1:21.496,205.541,8
+GP03,5,4,Norris,McLaren Mercedes,66,1:21.696,205.038,10
+GP03,4,11,Perez,Red Bull Racing Honda,66,1:20.643,207.715,12
+GP03,3,77,Bottas,Mercedes,66,1:19.865,209.738,16
+GP03,2,33,Verstappen,Red Bull Racing Honda,66,1:20.695,207.581,18
+GP03,1,44,Hamilton,Mercedes,66,1:20.933,206.971,25
+GP04,19,9,Mazepin,Haas Ferrari,64,1:24.040,200.261,0
+GP04,18,47,Schumacher,Haas Ferrari,64,1:22.637,203.661,0
+GP04,17,14,Alonso,Alpine Renault,65,1:21.182,207.311,0
+GP04,16,6,Latifi,Williams Mercedes,65,1:22.905,203.003,0
+GP04,15,99,Giovinazzi,Alfa Romeo Racing Ferrari,65,1:22.802,203.255,0
+GP04,14,63,Russell,Williams Mercedes,65,1:23.208,202.264,0
+GP04,13,5,Vettel,Aston Martin Mercedes,65,1:22.820,203.211,0
+GP04,12,7,Räikkönen,Alfa Romeo Racing Ferrari,65,1:22.868,203.094,0
+GP04,11,18,Stroll,Aston Martin Mercedes,65,1:22.607,203.735,0
+GP04,10,10,Gasly,AlphaTauri Honda,65,1:21.375,206.82,1
+GP04,9,31,Ocon,Alpine Renault,65,1:23.311,202.014,2
+GP04,8,4,Norris,McLaren Mercedes,65,1:21.279,207.064,4
+GP04,7,55,Sainz,Ferrari,66,1:21.568,206.33,6
+GP04,6,3,Ricciardo,McLaren Mercedes,66,1:21.853,205.612,8
+GP04,5,11,Perez,Red Bull Racing Honda,66,1:19.483,211.743,10
+GP04,4,16,Leclerc,Ferrari,66,1:20.459,209.174,12
+GP04,3,77,Bottas,Mercedes,66,1:19.430,211.884,15
+GP04,2,33,Verstappen,Red Bull Racing Honda,66,1:18.149,215.357,19
+GP04,1,44,Hamilton,Mercedes,66,1:20.665,208.64,25
+GP05,7,44,Hamilton,Mercedes,78,1:12.909,164.769,7
+GP05,6,10,Gasly,AlphaTauri Honda,78,1:15.412,159.3,8
+GP05,5,5,Vettel,Aston Martin Mercedes,78,1:15.316,159.503,10
+GP05,4,11,Perez,Red Bull Racing Honda,78,1:14.552,161.138,12
+GP05,3,4,Norris,McLaren Mercedes,78,1:14.670,160.883,15
+GP05,2,55,Sainz,Ferrari,78,1:14.621,160.989,18
+GP05,1,33,Verstappen,Red Bull Racing Honda,78,1:14.649,160.929,25
